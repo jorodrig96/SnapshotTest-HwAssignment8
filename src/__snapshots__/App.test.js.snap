@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`rendering tests rendering a test 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="bg-dark text-white card"
+  >
+    <img
+      alt="Card image"
+      className="card-img imgCard"
+      src="https://steamuserimages-a.akamaihd.net/ugc/960856720981536415/90FC611EA20B1797EABD82F92508DBB2DAFBBB0E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    />
+    <div
+      className="card-img-overlay"
+    >
+      <div
+        className="card-title h5"
+      >
+        MockFetch-Assignment8
+      </div>
+      <p
+        className="card-text"
+      >
+        Hello, my name is 
+        , & I hope to be doing this as a carreer soon.
+        <p>
+          I'm excited to start this new journey.
+        </p>
+        <h6>
+          Yours truly, 
+           :)
+        </h6>
+      </p>
+    </div>
+  </div>
+</div>
+`;
